@@ -1,0 +1,21 @@
+.dog {
+    width: 300px;
+    height: auto;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    color: blue;
+}
+
+button {
+    width: 80px;
+    height: 30px;
+    border-radius: 0.35rem;
+    border: none;
+    background-color: green;
+    color: white;
+}
